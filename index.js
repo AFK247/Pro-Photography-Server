@@ -80,13 +80,6 @@ async function run() {
             res.send(result);
         });
 
-        // app.post('/updatereview', async (req, res) => {
-        //     const review = req.body;
-
-        
-        // });
-
-
     }
     finally {
         //Nothing
@@ -98,7 +91,7 @@ run().catch(err => console.error(err));
 
 
 app.get('/', (req, res) => {
-    res.send('Photo server is running Succesfully')
+    res.send('Photo server is running')
 })
 
 app.listen(port, () => {

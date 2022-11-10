@@ -23,6 +23,9 @@ Project Work:
 
 * I used Mongodb For Database
 
+* I used Firebase For Authentication
+
+
 Framework/Libraries Used:
 
 * CORS
