@@ -3,9 +3,9 @@ Project Name: Pro Photography
 
 This is Server side 
 
-The Github Repository Link for Client:  https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-AFK247
+The Github Repository Link for Client: https://github.com/AFK247/Pro-Photography-Client
 
-The Github Repository Link for Server: https://github.com/Porgramming-Hero-web-course/b6a11-service-review-server-side-AFK247
+The Github Repository Link for Server: https://github.com/AFK247/Pro-Photography-Server
 
 Live Website Link: https://photography-2351.web.app
 
